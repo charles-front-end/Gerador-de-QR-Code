@@ -1,3 +1,4 @@
+
 const container = document.querySelector(".container");
 const qrCodeBtn = document.querySelector("#qr-header button");
 
